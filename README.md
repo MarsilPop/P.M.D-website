@@ -24,4 +24,4 @@ The 7h Course teaches about the following topics, that are implemented and used 
 - Position Absolute and Relative
 - and more CSS Features
 
-For educational purposes only
+-- Educational purposes only --
